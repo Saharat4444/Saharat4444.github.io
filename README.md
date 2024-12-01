@@ -5,4 +5,5 @@ plugins:
 * โฟ
 
 รหัสนิสิต 6530200843
-![KU9_6530200843 (2).pdf](https://github.com/user-attachments/files/17968322/KU9_6530200843.2.pdf)
+![S__29573134](https://github.com/user-attachments/assets/32057c08-5277-425c-ac9b-2c25c1c1b501)
+
