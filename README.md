@@ -9,5 +9,5 @@
 [Url from saharat4444.github.io](https://saharat4444.github.io/)
 
 <p align="center">
-  <img src="S__29573134.jpg" width="600" height="800" alt="student">
+  <img src="my_picture/S__29573134.jpg" width="600" height="800" alt="student">
 </p>
