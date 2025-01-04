@@ -1,7 +1,6 @@
 # Uniqueness
+[Defination by](https://www.ovaledge.com/blog/data-quality-metrics)
 
-  
-![Defination](https://www.ovaledge.com/blog/data-quality-metrics)
 
 Uniqueness :
 Data uniqueness is the measure of how distinct and non-repetitive data values are. Or, to put it in simpler terms, identifying and removing duplicate information and records.
