@@ -1,5 +1,5 @@
 # Uniqueness
-[Defination by](https://www.ovaledge.com/blog/data-quality-metrics)
+Defination by [Uniqueness](https://www.ovaledge.com/blog/data-quality-metrics)
 
 
 Uniqueness :
@@ -25,3 +25,4 @@ This is important because duplicate data can conflate or mislead your decision-m
 ครั้งสำหรับการซื้อสินค้าชิ้นเดียวกัน ทำให้ดูเหมือนว่าได้รับเงินมากกว่าจริง ซึ่งอาจทำให้รายงานการเงินผิดพลาด.
 
 # Myprofile:
+[saharat4444.github.io](https://saharat4444.github.io/)
