@@ -1,5 +1,5 @@
 
-![student](my_picture/S__29573134.jpg)
+![student](my_picture IMG_9448.jpgg)
 
 
 ที่สแกนเข้าหอพัก เป็น physical control และเป็นแบบ preventative 
