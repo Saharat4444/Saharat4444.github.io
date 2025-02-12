@@ -12,7 +12,7 @@
 
 [Url from Security-Control](https://saharat4444.github.io/Security-control)
 
-[Url from Security-Requirement](https://saharat4444.github.io/security-requirements)
+[Url from Security-Requirement](https://saharat4444.github.io/security-requirement)
 
 
   
