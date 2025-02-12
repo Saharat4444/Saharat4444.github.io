@@ -57,4 +57,4 @@
 - 6430200566 รัชนีกร ซายแก้ว  -> [GitHub Boardgame](https://6430200566.github.io/boardgame)
 - 6530200797 นายวาลิด นามวิลัย      -> [GitHub Boardgame](https://9jell.github.io/boardgame)
 - 6530200801 นายศิลา กมุทตระกูลชัย  -> [GitHub Boardgame](https://sila801.github.io/boardgame)
-- 6530200843 นายสหรัฐ อ่อนน้อม     -> [GitHub Boardgame](https://saharat4444.github.io/boardgame)
+- 6530200843 นายสหรัฐ อ่อนน้อม     -> [GitHub Boardgame](https://Saharat4444.github.io/boardgame)
